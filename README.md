@@ -20,11 +20,5 @@ linkedin: https://www.linkedin.com/in/jonathan-martins-ramos
   - IntelliJ IDEA
 ```
 
-
-## To Run
-
-```bash
-  mvn test -Dtest=RunCucumber -Dbrowser=chrome cluecumber-report:reporting
-```
     
     
